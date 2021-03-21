@@ -14,5 +14,6 @@ To create a map with markers the [WeatherPy_Database.csv](https://github.com/Rut
 The Google Directions API was used to create a travel itinerary that shows the route between four cities chosen from the possible travel destinations base on weather preferences. 
 WeatherPy_travel_map.png shows the suggested route.
 ![WeatherPy_travel_map.png](https://github.com/RuthLD/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png) 
+
 WeatherPy_travel_map_markers.png shows the hotel and city information for the destinations with map markers.
 ![WeatherPy_travel_map_markers.png](https://github.com/RuthLD/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
