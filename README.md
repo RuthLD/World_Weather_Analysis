@@ -1,5 +1,5 @@
 # World_Weather_Analysis
-Project 6 of the Data Analysis BootCamp. Analysis weather data using APIs and statistics to create visualizations and recommendations for a travel company.
+Analysis weather data using APIs and statistics to create visualizations and recommendations for a travel company.
 ## Overview
 This project aimed to collect and analyze weather data across cities worldwide and use the data to recommend ideal hotels based on weather preferences.
 The analysis was divided into three parts.
